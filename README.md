@@ -111,4 +111,4 @@ Compiler design is broken down into several stages or phases. Each phase handles
 
 Compiler design is a foundational topic in computer science that bridges theory and practical software development. It involves several structured phases that work together to transform human-readable code into machine-readable instructions. A well-designed compiler not only translates code but also improves its performance and reliability. Understanding compiler basics is crucial for anyone interested in systems programming, language design, or software optimization.
 
-#OUTPUT
+
